@@ -12,7 +12,7 @@ https://pubapis.lan2wan.top
 
 1. 扫码打开小程序
 
-   ![小程序码](./img/mini_program_code.png)
+   <img src="./img/mini_program_code.jpg" alt="小程序码" style="zoom:75%;" />
 
 2. 点击底部菜单 密钥 生成或获取密钥
 
