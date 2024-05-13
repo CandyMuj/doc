@@ -76,6 +76,8 @@ https://pubapis.lan2wan.top
 
 ## 阳历农历互转
 
+> 仅支持 1900年到2100年 的农历月份
+
 ### 接口地址
 
 **POST** https://[域名](#接口请求域名)/calendar/lunar
