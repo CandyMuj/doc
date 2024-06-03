@@ -2,4 +2,4 @@
 
 
 
-* [🍒 短网址服务](https://dwz.cc)
+* [🍒 短网址服务](https://dwzz.cc)
