@@ -4,7 +4,7 @@
 
 ## 接口请求域名
 
-https://pubapis.lan2wan.top
+https://pubapis.520993.xyz
 
 ## 接入流程
 

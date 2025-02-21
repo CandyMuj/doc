@@ -1,1 +1,1 @@
-https://doc.lan2wan.top/public-api/
+https://doc.520993.xyz/public-api/
